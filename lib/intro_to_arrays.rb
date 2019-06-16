@@ -18,12 +18,15 @@ end
 
 def last_element(array)
   newArray = array.last
+  return newArray
 end
 
 def first_element_with_array_methods(array)
   newArray = array.first
+  return newArray
 end
 
 def length_of_array(array)
-  newArray = array.length 
+  newArray = array.length
+  return newArray 
 end
