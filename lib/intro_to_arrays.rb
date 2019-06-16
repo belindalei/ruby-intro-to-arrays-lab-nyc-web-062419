@@ -1,19 +1,16 @@
-def instantiate_new_array 
+def instantiate_new_array
   my_new_array = []
-  return my_new_array 
-end 
+  return my_new_array
+end
 
-def array_with_two_elements 
+def array_with_two_elements
   my_two_array = ["apple", "banana"]
-end 
+end
 
 def first_element(array)
-  array.first 
+  array.first
 end
 
 def third_element(array)
   array[3]
 end
-
-
-
