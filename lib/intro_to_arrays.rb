@@ -12,5 +12,18 @@ def first_element(array)
 end
 
 def third_element(array)
-  array[3]
+  newArray = array[3]
+  return newArray
+end
+
+def last_element(array)
+  newArray = array.last
+end
+
+def first_element_with_array_methods(array)
+  newArray = array.first
+end
+
+def length_of_array(array)
+  newArray = array.length 
 end
