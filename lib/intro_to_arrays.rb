@@ -12,7 +12,7 @@ def first_element(array)
 end
 
 def third_element(array)
-  newArray = array[4]
+  newArray = array[2]
   return newArray
 end
 
@@ -28,7 +28,7 @@ end
 
 def last_element_with_array_methods(array)
   newArray = array.last
-  return newArray 
+  return newArray
 end
 
 def length_of_array(array)
